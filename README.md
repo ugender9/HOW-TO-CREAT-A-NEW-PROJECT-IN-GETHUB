@@ -29,11 +29,11 @@ How to Use
 
 To use this undertaking, virtually run the code in a Python environment with the required libraries mounted (e.G. Keras, TensorFlow, NumPy, and many others.). You can modify the hyperparameters and structure of the version to improve its performance.
 
-Results
+### Results
 
 The undertaking includes several examples of generated textual content using the educated version. The effects display that the version is capable of generate coherent and context-based text.
 
-Future Work
+### Future Work
 
 #### There are numerous areas for future improvement, consisting of:
 
