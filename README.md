@@ -1,12 +1,24 @@
-Project: Text Generation AI - Next Word Prediction in Python
+**NAME:** PODILA UGENDER 
 
-Overview
+**COMPANY:** GWING SOFTWARE TECHNOLOGIES
+
+**ID:** GW24AI0802A1655
+
+**DOMAIN:** Healthcare/Medical Diagnosis
+
+**DURATION:** AUGUST TO SEPTEMBER
+
+
+
+## Project: Text Generation AI - Next Word Prediction in Python
+
+### Overview
 
 This mission is a textual content technology AI that predicts the next phrase in a sequence of textual content using a deep getting to know version. The version is skilled on a dataset of text and makes use of a mixture of herbal language processing (NLP) and machine mastering techniques to generate textual content.
 
-Code Structure
+### Code Structure
 
-The code is prepared into numerous sections:
+### The code is prepared into numerous sections:
 
 Data Preprocessing: The code hundreds a dataset of text and preprocesses it by tokenizing the textual content, converting it to lowercase, and growing a vocabulary of particular words.
 Model Definition: The code defines a deep gaining knowledge of model the use of the Keras library, which consists of numerous layers such as LSTM and Dense layers.
@@ -23,7 +35,7 @@ The undertaking includes several examples of generated textual content using the
 
 Future Work
 
-There are numerous areas for future improvement, consisting of:
+#### There are numerous areas for future improvement, consisting of:
 
 Increasing the scale and variety of the education dataset
 Experimenting with distinct version architectures and hyperparameters
